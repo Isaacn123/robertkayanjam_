@@ -1,7 +1,7 @@
 import AuthLogo from './extensions/logo_auth.png';
 import MenuLogo from './extensions/logo_menu.png';
 import favicon from './extensions/favicon.ico';
-import { synthwave } from './strapi-code-themes';
+import { synthwave } from './custom-theme';
 export default {
     config: {
         auth: {
