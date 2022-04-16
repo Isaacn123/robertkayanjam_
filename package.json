@@ -17,6 +17,8 @@
     "@strapi/provider-upload-cloudinary": "^4.1.8",
     "@strapi/strapi": "4.1.7",
     "better-sqlite3": "7.4.6",
+    "pg": "^8.7.3",
+    "pg-connection-string": "^2.5.0",
     "strapi-code-themes": "^1.0.1"
   },
   "author": {
