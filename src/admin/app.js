@@ -75,7 +75,8 @@ export default {
       },
 
     },
-    bootstrap(app) {
-      console.log(app);
-    },
+    // bootstrap(app) {
+    //   console.log(app);
+    // },
+    bootstrap() {},
   };
